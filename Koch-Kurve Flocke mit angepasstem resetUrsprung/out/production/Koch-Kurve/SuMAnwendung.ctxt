@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SuMAnwendung
+comment1.params=
+comment1.target=SuMAnwendung()
+comment2.params=
+comment2.target=void\ zeichne()
+comment3.params=
+comment3.target=void\ loesche()
+comment4.params=
+comment4.target=void\ reglerBearbeiter()
+comment5.params=
+comment5.target=void\ actionSchalter()
+comment6.params=laenge
+comment6.target=void\ rekursiv(double)
+comment7.params=
+comment7.target=void\ resetUrsprung()
+comment8.params=
+comment8.target=void\ fuehreAus()
+numComments=9
